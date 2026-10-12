@@ -1,37 +1,61 @@
-# Contraction Coefficients of Qubit Quantum Channels
+# Convergence Analysis of the Quantum Blahut-Arimoto Algorithm and the Contraction Coefficient of Qubit Amplitude Damping Channels
 
-**Authors:** Junke Han, [其他作者姓名]
+**Junke Han**  
+School of Mathematics and Statistics, Xi'an Jiaotong University
 
-This repository contains the full version of our paper on contraction coefficients of qubit quantum channels.
+## About
 
-The conference version is prepared for submission to the **2027 IEEE Information Theory Workshop (ITW 2027)**. Due to the page limit of the conference paper, some technical details and complete proofs are provided only in the full version.
+This repository contains the full version of the paper
+
+**“Convergence Analysis of the Quantum Blahut-Arimoto Algorithm and the Contraction Coefficient of Qubit Amplitude Damping Channels.”**
+
+A condensed version of this work is prepared for submission to the **2027 IEEE Information Theory Workshop (ITW 2027)**.
+
+Due to the page limit of the conference paper, some technical details, complete proofs, and supplementary discussions are omitted from the conference version and are provided in the full manuscript available here.
 
 ## Full Version
 
-The complete manuscript, including detailed proofs and supplementary discussions, is available here:
-
-**[Download the full paper (PDF)](./Final_version.pdf)**
+**[Full paper (PDF)](./Final_version.pdf)**
 
 ## Abstract
 
-[在这里放论文的 abstract。]
+We investigate the convergence rate of the quantum Blahut-Arimoto algorithm for computing the coherent information of less noisy quantum channels.
+
+Using a Taylor expansion analysis around the optimal solution, we derive a tractable criterion under which the gap between the optimal value and the value obtained at the n-th iteration decays exponentially with the number of iterations. In particular, we verify the condition for qubit amplitude damping channels.
+
+We also study contraction coefficients of qubit amplitude damping channels with respect to quantum relative entropy. By analyzing the Bogoliubov-Kubo-Mori (BKM) metric on the Bloch ball, we obtain an explicit characterization of the contraction coefficient. The method is further extended to the relative contraction coefficient and the relative expansion coefficient of two qubit amplitude damping channels.
 
 ## Main Results
 
-The paper studies contraction coefficients for quantum channels with respect to quantum relative entropy, with particular emphasis on qubit channels.
+The full manuscript contains the following main results:
 
-[之后我们可以把你的主要定理用两三条简洁地写在这里。]
+- A sufficient condition for local exponential convergence of the quantum Blahut-Arimoto algorithm for computing coherent information.
 
-## Conference Version
+- Verification of this condition for important families of qubit channels, including qubit amplitude damping channels.
 
-A condensed version of this work is prepared for submission to:
+- An exact one-dimensional variational characterization of the quantum relative-entropy contraction coefficient of a qubit amplitude damping channel.
 
-**2027 IEEE Information Theory Workshop (ITW 2027).**
+- Explicit characterizations of the relative contraction and relative expansion coefficients between two qubit amplitude damping channels.
 
-## Citation
+## Supplementary Details
 
-Citation information will be added after the preprint is publicly available.
+The full version contains detailed proofs and technical material that cannot be included in the conference version because of the page limit.
+
+In particular, it includes:
+
+- the complete proof of the exponential convergence result;
+- the complete derivation of the contraction coefficient;
+- proofs of the relative contraction and expansion coefficient results;
+- additional technical appendices concerning amplitude damping channels and spectral comparisons.
+
+## Keywords
+
+Quantum Blahut-Arimoto algorithm, coherent information, amplitude damping channel, BKM metric, contraction coefficient.
+
+## Preprint
+
+A link to the arXiv or TechRxiv version will be added here once the preprint is publicly available.
 
 ## Version
 
-Current full manuscript: October 2026.
+Full manuscript, October 2026.
