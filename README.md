@@ -1,6 +1,6 @@
 # Convergence Analysis of the Quantum Blahut-Arimoto Algorithm and the Contraction Coefficient of Qubit Amplitude Damping Channels
 
-**Authors:** Junke Han and Y. Li
+**Authors:** Junke Han and Yonglong Li
 
 **Junke Han's affiliation:** School of Mathematics and Statistics, Xi'an Jiaotong University
 
