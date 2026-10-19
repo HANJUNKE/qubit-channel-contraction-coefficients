@@ -1,7 +1,8 @@
 # Convergence Analysis of the Quantum Blahut-Arimoto Algorithm and the Contraction Coefficient of Qubit Amplitude Damping Channels
 
-**Junke Han**  
-School of Mathematics and Statistics, Xi'an Jiaotong University
+**Authors:** Junke Han and Y. Li
+
+**Junke Han's affiliation:** School of Mathematics and Statistics, Xi'an Jiaotong University
 
 ## About
 
@@ -9,7 +10,7 @@ This repository contains the full version of the paper
 
 **“Convergence Analysis of the Quantum Blahut-Arimoto Algorithm and the Contraction Coefficient of Qubit Amplitude Damping Channels.”**
 
-A condensed version of this work is prepared for submission to the **2027 IEEE Information Theory Workshop (ITW 2027)**.
+A condensed version of this work was prepared for submission to the **2027 IEEE Information Theory Workshop (ITW 2027)**.
 
 Due to the page limit of the conference paper, some technical details, complete proofs, and supplementary discussions are omitted from the conference version and are provided in the full manuscript available here.
 
@@ -43,10 +44,10 @@ The full version contains detailed proofs and technical material that cannot be 
 
 In particular, it includes:
 
-- the complete proof of the exponential convergence result;
-- the complete derivation of the contraction coefficient;
-- proofs of the relative contraction and expansion coefficient results;
-- additional technical appendices concerning amplitude damping channels and spectral comparisons.
+- The complete proof of the exponential convergence result.
+- The complete derivation of the contraction coefficient.
+- Proofs of the relative contraction and expansion coefficient results.
+- Additional technical appendices concerning amplitude damping channels and spectral comparisons.
 
 ## Keywords
 
